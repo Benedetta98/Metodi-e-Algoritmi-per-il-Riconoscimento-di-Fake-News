@@ -1,0 +1,55 @@
+false	CL	world	blog-posting	C		none	7	19	3	5	44	a news release
+true	NCL	world	robin-vos	B	Wisconsin	republican	0	3	2	5	1	a an online opinion-piece
+false	NCL	politics	mitt-romney	C	Massachusetts	republican	34	32	58	33	19	an interview with CBN News
+true	NCL	politics	barack-obama	A	Illinois	democrat	70	71	160	163	9	a radio ad
+false	CL	world	dennis-richardson	B	Oregon	republican	0	4	1	2	0	a campaign debate
+false	CL	world	nancy-pelosi	C	California	democrat	3	7	11	2	3	a news conference
+false	CL	world	pamela-geller	B	New York	activist	0	1	1	0	0	a tweet 
+false	CL	politics	hillary-clinton	A	New York	democrat	40	29	69	76	7	a tweet
+false	NCL	world	U.S. House of Representative	C	West Virginia	republican	1	1	0	0	0	a campaign ad
+false	NCL	world	ted-cruz	A	Texas	republican	36	33	15	19	8	a speech at CPAC
+true	CL	world	lee-leffingwell	B	Texas	democrat	1	0	4	1	0	his "State of the City" address
+true	NCL	world	north-korea	A		none	0	0	0	0	0	a released statement
+true	NCL	world		B	New Hampshire	republican	2	1	1	4	0	a town hall meeting in Hudson, N.H.
+false	CL	politics	marco-rubio	B	Florida	republican	33	24	32	35	a speech at the CPAC conference
+false	CL	world	jerry-patterson	C	Texas	republican	1	1	1	3	a speech at the Texas Republican Party Convention
+false	CL	politics	john-boehner	C	Ohio	republican	13	22	11	4	2	an interview with ABC news
+true	NCL	world	blog-posting	A		none	7	19	3	5	44	Townhall.com 
+false	NCL	world	ken-cuccinelli	B	Virginia	republican	1	10	3	2	1	a speech.
+true	CL	world	andrew-cuomo	A	New York	democrat	1	0	0	1	0	a conversation with reporters in Victor, NY.
+false	CL	politics	john-mccain	B	Arizona	republican	31	39	31	37	8	a rally in Bensalem, Pa.
+false	CL	world	michelle-obama	C	Illinois	democrat	0	2	1	4	0	an interview with NPR
+false	CL	politics	john-barrasso	A	Wyoming	republican	1	0	0	0	0	an interview on Fox News
+false	NCL	world	john-depetro	C	Rhode Island		0	3	0	0	3	a statement on WPRO-AM
+true	NCL	politics	mitt-romney	B	Massachusetts	republican	34	32	58	33	19	remarks at the Republican National Convention in Tampa
+false	CL	world	donald-trump	C	New York	republican	63	114	51	37	61	an interview on "Meet the Press"
+true	CL	politics	terry-mcauliffe	A	Virginia	democrat	12	6	2	2	3	a speech.
+true	NCL	politics	george-will	C	Maryland	columnist	7	6	3	5	1	a roundtable discussion on ABC's "This Week"
+false	CL	world	elena-kagan	B	New York	democrat	0	0	1	0	0	a law review article
+false	CL	politics	republican-party-florida	C		republican	10	6	6	6	4	a Facebook post
+true	CL	politics	jeanne-shaheen	A	New Hampshire	democrat	3	0	4	2	0	a news release
+false	NCL	world	sameh-shoukry	C		none	0	1	0	0	0	an interview on ABC's "This Week with Christiane Amanpour."
+false	NCL	world	karl-rove	C	Texas	republican	2	5	2	8	0	comments on "Fox News Sunday"
+true	CL	politics	gwen-graham	B	Florida	democrat	0	0	1	0	0	a campaign commercial
+false	CL	politics	jim-skaggs	C	Texas	none	0	1	0	0	0	as quoted in a news story
+false	CL	world	john-mccain	A	Arizona	republican	31	39	31	37	8	comments on 'Meet the Press'
+true	NCL	politics	rick-perry	A	Texas	republican	30	30	42	23	18	Texas Public Policy Foundation policy orientation
+true	NCL	world	robert-sarvis	C	Virginia	libertarian	0	0	0	1	0	a tweet.
+true	NCL	politics	mark-shields	C	Washington, D.C.	none	1	0	0	0	0	the PBS NewsHour
+false	CL	world	brady-campaign-prevent-gun-violence	C		none	1	1	0	0	0	a congressional briefing
+false	NCL	politics	donald-trump	A	New York	republican	63	114	51	37	61	a presidential debate at Hofstra University
+true	CL	politics	barack-obama	A	Illinois	democrat	70	71	160	163	9	an e-mail message sent to voters before Super Tuesday.
+true	CL	politics	rick-perry	C	Texas	republican	30	30	42	23	18	in "Fed Up! Our Fight to Save America from Washington"
+false	CL	world	terry-mcauliffe	C	Virginia	democrat	12	6	2	2	3	a speech.
+true	NCL	politics	barack-obama	A	Illinois	democrat	70	71	160	163	9	the State of the Union address
+false	NCL	politics	ted-cruz	B	Texas	republican	36	33	15	19	8	remarks in New Hampshire
+true	NCL	world	bruce-elfant	A	Texas	democrat	0	0	0	1	0	a press statement.
+true	CL	world	alex-sink	B	Florida	democrat	1	2	2	4	0	a fundraising e-mail to supporters
+false	CL	politics	blog-posting	C		none	7	19	3	5	44	blog posts
+true	CL	world	david-jolly	C	Florida	republican	4	0	1	1	0	a Congressional campaign debate
+false	NCL	politics	jon-keyser	C	Colorado	republican	0	1	0	0	1	a candidate forum 
+true	NCL	politics	oregon-right-life-pac	B	Oregon	none	0	0	0	0	0	a newspaper ad
+true	CL	world	barack-obama	A	Illinois	democrat	70	71	160	163	9	an online ad.
+false	NCL	politics	rob-portman	B	Ohio	republican	3	5	11	11	1	a speech at the Republican National Convention in Tampa
+false	CL	politics	louie-gohmert	C	Texas	republican	2	6	1	0	1	a radio interview.
+true	NCL	world	mike-haridopolos	A	Florida	republican	0	3	1	1	0	comments to reporters.
